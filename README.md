@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Alejo Mattalia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Desarrollador Web Apasionado en 🇦🇷</h3>
 
+<br/><br/>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-<br/>
 
 - 💼 Actualmente estoy trabajando en <a href="https://www.linkedin.com/company/kiura/mycompany/" target="blank">Kiura</a>
 
@@ -28,7 +28,7 @@
 
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">puedes contactarme por:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/alejo-mattalia/" target="blank"><img align="center"
@@ -52,3 +52,24 @@
     </p>
   </samp>
 </div>
+
+## Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">E-commerce de una tienda de vinos </h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1709827297/potfolio-empresa/Captura_desde_2024-03-07_13-00-55_j1lba4.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/AlejoMattalia/Tienda-vino---sabor-divino" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://sabordivino.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Link-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Un e-commerce de vinos debe incluir un catálogo con imágenes y descripciones, filtros de búsqueda, páginas de producto detalladas, un carrito de compras fácil de usar, un proceso de checkout claro, y opciones para gestionar cuentas y pedidos.</p>
+</div>
+                                                                                      
+</td>
+
