@@ -73,3 +73,29 @@
                                                                                       
 </td>
 
+<td width="50%">
+               <br>
+<h3 align="center">Backend red social</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/dp0zorgdp/image/upload/v1707340223/porfolio/DESARROLLO_BACKEND_RED_SOCIAL_shbv7c.png" width="240" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/AlejoMattalia/red-social-backend" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Desarrollé el backend de una red social en Node.js y MongoDB, implementando perfiles de usuario, seguimiento, publicaciones. También gestioné el almacenamiento de datos y archivos, optimizando la seguridad y el rendimiento.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlejoMattalia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejoMattalia&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
