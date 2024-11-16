@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">E-commerce de una tienda de vinos </h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1709827297/potfolio-empresa/Captura_desde_2024-03-07_13-00-55_j1lba4.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/AlejoMattalia/Tienda-vino---sabor-divino" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1709827297/potfolio-empresa/Captura_desde_2024-03-07_13-00-55_j1lba4.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/AlejoMattalia/Tienda-vino---sabor-divino" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -77,7 +77,7 @@
                <br>
 <h3 align="center">Backend red social</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/dp0zorgdp/image/upload/v1707340223/porfolio/DESARROLLO_BACKEND_RED_SOCIAL_shbv7c.png" width="240" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/AlejoMattalia/red-social-backend" target="_blank"><img src="https://res.cloudinary.com/dp0zorgdp/image/upload/v1707340223/porfolio/DESARROLLO_BACKEND_RED_SOCIAL_shbv7c.png" width="240" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/AlejoMattalia/red-social-backend" target="_blank">
@@ -86,8 +86,75 @@
 </p>
 </p>Desarrollé el backend de una red social en Node.js y MongoDB, implementando perfiles de usuario, seguimiento, publicaciones. También gestioné el almacenamiento de datos y archivos, optimizando la seguridad y el rendimiento.</p>
 </div>                                                             
-</table>                                                                                 
+</td>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Frontend prueba técninca</h3>
+<div align="center">
+<a href="https://github.com/AlejoMattalia/frontend_appsnube" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1731792531/Captura_desde_2024-11-16_18-27-52_i8snz6.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/AlejoMattalia/frontend_appsnube" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://frontend-appsnube.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Link-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Frontend para una prueba técnica con carrito de compras, donde los usuarios pueden comprar productos. Incluye un panel de administración con login, CRUD de productos y marcas, y visualización de órdenes.</p>
 </div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Backend prueba técnica</h3>
+<div align="center">                                       
+<a href="https://github.com/AlejoMattalia/backend_appsnube" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1731792531/Captura_desde_2024-11-16_18-27-52_i8snz6.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/AlejoMattalia/backend_appsnube" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>
+Backend para una prueba técnica que gestiona un carrito de compras, procesamiento de órdenes y autenticación de usuarios. Incluye APIs para el CRUD de productos, marcas y la administración de órdenes.</p>
+</div>                                                             
+</td>
+</table>  
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Frontend de Aplicación de Gestión de Proyectos con Scrum. En proceso</h3>
+<div align="center">
+<a href="https://github.com/AlejoMattalia/frontend-project-management-with-scrum" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1731795243/Captura_desde_2024-11-16_19-13-42_zz2lgl.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/AlejoMattalia/frontend-project-management-with-scrum" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Frontend para una aplicación de gestión de proyectos con enfoque en Scrum, actualmente en desarrollo.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Backend de Aplicación de Gestión de Proyectos con Scrum. En proceso</h3>
+<div align="center">                                       
+<a href="https://github.com/AlejoMattalia/backend-project-management-with-scrum" target="_blank"><img src="https://res.cloudinary.com/dl6igxwvo/image/upload/v1731795243/Captura_desde_2024-11-16_19-13-42_zz2lgl.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/AlejoMattalia/backend-project-management-with-scrum" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>
+Backend para una aplicación de gestión de proyectos con enfoque en Scrum, actualmente en desarrollo.</p>
+</div>                                                             
+</td>
+</table> 
 <br>
 
 
