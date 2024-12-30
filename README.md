@@ -7,7 +7,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 💼 Trabajé 8 meses en BeCode.
+- 💼 Trabajé 8 meses en BeCode y actualmente trabajo en Byron.
 
 - 🎓 Técnico Superior en Programación en TECLAB.
 
